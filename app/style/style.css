@@ -1,0 +1,14 @@
+#expense-tracker{
+    width: 600px;
+}
+.item-table {
+    table-layout: fixed;
+}
+.fa {
+    cursor: pointer;
+}
+
+#category-filter {
+    float: right;
+    padding-bottom: 10px;
+}
